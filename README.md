@@ -2,7 +2,7 @@
 
 Effortlessly detect version conflicts between `tensorflow`, `keras`, `protobuf`, and other core Python packages across different Python versions.
 
-> **Author**: [NexxaDev](https://nexxadev.ct.ws)  
+> **Author**: [NexxaDev on GitHub](https://github.com/nexxadev)  
 > 🔧 Passionate Coder & Robotic Hobbyist  
 > 🌐 Website: [nexxadev.ct.ws](https://nexxadev.ct.ws)  
 
