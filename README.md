@@ -1,4 +1,4 @@
-# 📦 Python Package Checker v1.0
+# 📦 Python Package Checker v1.1.0
 
 Effortlessly detect version conflicts between `tensorflow`, `keras`, `protobuf`, and other core Python packages across different Python versions.
 
@@ -22,20 +22,20 @@ Compiled `.pyc` files are available for **Python 3.7** to **Python 3.13**.
 
 | Python Version | Download |
 |----------------|----------|
-| Python 3.7.x   | [pkg_chk_3_7.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_7.pyc) |
-| Python 3.8.x   | [pkg_chk_3_8.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_8.pyc) |
-| Python 3.9.x   | [pkg_chk_3_9.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_9.pyc) |
-| Python 3.10.x  | [pkg_chk_3_10.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_10.pyc) |
-| Python 3.11.x  | [pkg_chk_3_11.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_11.pyc) |
-| Python 3.12.x  | [pkg_chk_3_12.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_12.pyc) |
-| Python 3.13.x  | [pkg_chk_3_13.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.0/pkg_chk_3_13.pyc) |
+| Python 3.7.x   | [pkg_chk_3_7.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_7.pyc) |
+| Python 3.8.x   | [pkg_chk_3_8.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_8.pyc) |
+| Python 3.9.x   | [pkg_chk_3_9.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_9.pyc) |
+| Python 3.10.x  | [pkg_chk_3_10.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_10.pyc) |
+| Python 3.11.x  | [pkg_chk_3_11.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_11.pyc) |
+| Python 3.12.x  | [pkg_chk_3_12.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_12.pyc) |
+| Python 3.13.x  | [pkg_chk_3_13.pyc](https://github.com/nexxadev/py-pkg-checker/releases/download/v1.1.0/pkg_chk_3_13.pyc) |
 
 ---
 
 ## 🔗 Release Information
 
-- **Version**: v1.0  
-- **Tag**: [v1.0](https://github.com/nexxadev/py-pkg-checker/releases/tag/v1.0)  
+- **Version**: v1.1.0  
+- **Tag**: [v1.0](https://github.com/nexxadev/py-pkg-checker/releases/tag/v1.1.0)  
 
 ---
 
