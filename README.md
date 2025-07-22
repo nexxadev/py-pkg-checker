@@ -35,7 +35,7 @@ Compiled `.pyc` files are available for **Python 3.7** to **Python 3.13**.
 ## 🔗 Release Information
 
 - **Version**: v1.1.0  
-- **Tag**: [v1.0](https://github.com/nexxadev/py-pkg-checker/releases/tag/v1.1.0)  
+- **Tag**: [v1.1.0](https://github.com/nexxadev/py-pkg-checker/releases/tag/v1.1.0)  
 
 ---
 
