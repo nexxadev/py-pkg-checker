@@ -1,10 +1,10 @@
-# 🧪 Python Package Conflict Checker
+# 📦 Python Package Checker v1.0
 
 Effortlessly detect version conflicts between `tensorflow`, `keras`, `protobuf`, and other core Python packages across different Python versions.
 
 > **Author**: [NexxaDev](https://nexxadev.ct.ws)  
 > 🔧 Passionate Coder & Robotic Hobbyist  
-> 🌐 Website: [nexxadev.ct.ws](https://nexxadev.ct.ws)
+> 🌐 Website: [nexxadev.ct.ws](https://nexxadev.ct.ws)  
 
 ---
 
@@ -32,6 +32,13 @@ Compiled `.pyc` files are available for **Python 3.7** to **Python 3.13**.
 
 ---
 
+## 🔗 Release Information
+
+- **Version**: v1.0  
+- **Tag**: [v1.0](https://github.com/nexxadev/py-pkg-checker/releases/tag/v1.0)  
+
+---
+
 ## 📖 Usage Guide
 
 > 💡 Make sure Python is installed and internet is ON
@@ -41,3 +48,21 @@ Compiled `.pyc` files are available for **Python 3.7** to **Python 3.13**.
 1. **Check your Python version**:
    ```bash
    python --version
+   ```
+   Example output: `Python 3.11.5` → download the `pkg_chk_3_11.pyc` file.
+
+2. **Download the matching .pyc file**  
+   Choose the file that matches your Python version from the Downloads section above.
+
+3. **Place the file in your working directory**  
+   Move the downloaded `.pyc` file into the directory where you want to run the checker.
+
+4. **Ensure you're connected to the Internet**  
+   An internet connection is required for checking compatibility via the PyPI index.
+
+5. **Run the checker using Python**  
+   Open your terminal or command prompt in the same directory and run:
+   ```bash
+   python pkg_chk_3_11.pyc
+   ```
+   🔄 Replace `pkg_chk_3_11.pyc` with the version-appropriate filename you downloaded.
